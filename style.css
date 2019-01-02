@@ -1,0 +1,19 @@
+#header {
+	height: 200px;
+	width: 100%;
+	margin: 0px;
+}
+
+.header_text {
+		
+}
+
+.no_margin {
+	margin: 0px;
+	padding: 0px;
+}
+
+.black {color: black;}
+.red_back {background-color: red;}
+.relative {position: relative;}
+
